@@ -5,6 +5,7 @@ def hello_t(array)
 array.each {|i| puts i.upcase }
 
 end
+end
 
 # call your method here!
 
